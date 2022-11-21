@@ -1,0 +1,15 @@
+C:\Users\user\Documents\УЧЕБА\C#\C# первый семинар\Sixth\bin\Debug\net6.0\Sixth.exe
+C:\Users\user\Documents\УЧЕБА\C#\C# первый семинар\Sixth\bin\Debug\net6.0\Sixth.deps.json
+C:\Users\user\Documents\УЧЕБА\C#\C# первый семинар\Sixth\bin\Debug\net6.0\Sixth.runtimeconfig.json
+C:\Users\user\Documents\УЧЕБА\C#\C# первый семинар\Sixth\bin\Debug\net6.0\Sixth.dll
+C:\Users\user\Documents\УЧЕБА\C#\C# первый семинар\Sixth\bin\Debug\net6.0\Sixth.pdb
+C:\Users\user\Documents\УЧЕБА\C#\C# первый семинар\Sixth\obj\Debug\net6.0\Sixth.csproj.AssemblyReference.cache
+C:\Users\user\Documents\УЧЕБА\C#\C# первый семинар\Sixth\obj\Debug\net6.0\Sixth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\УЧЕБА\C#\C# первый семинар\Sixth\obj\Debug\net6.0\Sixth.AssemblyInfoInputs.cache
+C:\Users\user\Documents\УЧЕБА\C#\C# первый семинар\Sixth\obj\Debug\net6.0\Sixth.AssemblyInfo.cs
+C:\Users\user\Documents\УЧЕБА\C#\C# первый семинар\Sixth\obj\Debug\net6.0\Sixth.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\УЧЕБА\C#\C# первый семинар\Sixth\obj\Debug\net6.0\Sixth.dll
+C:\Users\user\Documents\УЧЕБА\C#\C# первый семинар\Sixth\obj\Debug\net6.0\refint\Sixth.dll
+C:\Users\user\Documents\УЧЕБА\C#\C# первый семинар\Sixth\obj\Debug\net6.0\Sixth.pdb
+C:\Users\user\Documents\УЧЕБА\C#\C# первый семинар\Sixth\obj\Debug\net6.0\Sixth.genruntimeconfig.cache
+C:\Users\user\Documents\УЧЕБА\C#\C# первый семинар\Sixth\obj\Debug\net6.0\ref\Sixth.dll
