@@ -1,0 +1,15 @@
+C:\Users\user\Documents\УЧЕБА\C#\C# первый семинар\Thierd\obj\Debug\net6.0\Thierd.csproj.AssemblyReference.cache
+C:\Users\user\Documents\УЧЕБА\C#\C# первый семинар\Thierd\obj\Debug\net6.0\Thierd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\УЧЕБА\C#\C# первый семинар\Thierd\obj\Debug\net6.0\Thierd.AssemblyInfoInputs.cache
+C:\Users\user\Documents\УЧЕБА\C#\C# первый семинар\Thierd\obj\Debug\net6.0\Thierd.AssemblyInfo.cs
+C:\Users\user\Documents\УЧЕБА\C#\C# первый семинар\Thierd\obj\Debug\net6.0\Thierd.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\УЧЕБА\C#\C# первый семинар\Thierd\bin\Debug\net6.0\Thierd.exe
+C:\Users\user\Documents\УЧЕБА\C#\C# первый семинар\Thierd\bin\Debug\net6.0\Thierd.deps.json
+C:\Users\user\Documents\УЧЕБА\C#\C# первый семинар\Thierd\bin\Debug\net6.0\Thierd.runtimeconfig.json
+C:\Users\user\Documents\УЧЕБА\C#\C# первый семинар\Thierd\bin\Debug\net6.0\Thierd.dll
+C:\Users\user\Documents\УЧЕБА\C#\C# первый семинар\Thierd\bin\Debug\net6.0\Thierd.pdb
+C:\Users\user\Documents\УЧЕБА\C#\C# первый семинар\Thierd\obj\Debug\net6.0\Thierd.dll
+C:\Users\user\Documents\УЧЕБА\C#\C# первый семинар\Thierd\obj\Debug\net6.0\refint\Thierd.dll
+C:\Users\user\Documents\УЧЕБА\C#\C# первый семинар\Thierd\obj\Debug\net6.0\Thierd.pdb
+C:\Users\user\Documents\УЧЕБА\C#\C# первый семинар\Thierd\obj\Debug\net6.0\Thierd.genruntimeconfig.cache
+C:\Users\user\Documents\УЧЕБА\C#\C# первый семинар\Thierd\obj\Debug\net6.0\ref\Thierd.dll
