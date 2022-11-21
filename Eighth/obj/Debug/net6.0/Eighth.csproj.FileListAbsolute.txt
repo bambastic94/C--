@@ -1,0 +1,15 @@
+C:\Users\user\Documents\УЧЕБА\C#\C# первый семинар\Eighth\obj\Debug\net6.0\Eighth.csproj.AssemblyReference.cache
+C:\Users\user\Documents\УЧЕБА\C#\C# первый семинар\Eighth\obj\Debug\net6.0\Eighth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\УЧЕБА\C#\C# первый семинар\Eighth\obj\Debug\net6.0\Eighth.AssemblyInfoInputs.cache
+C:\Users\user\Documents\УЧЕБА\C#\C# первый семинар\Eighth\obj\Debug\net6.0\Eighth.AssemblyInfo.cs
+C:\Users\user\Documents\УЧЕБА\C#\C# первый семинар\Eighth\obj\Debug\net6.0\Eighth.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\УЧЕБА\C#\C# первый семинар\Eighth\bin\Debug\net6.0\Eighth.exe
+C:\Users\user\Documents\УЧЕБА\C#\C# первый семинар\Eighth\bin\Debug\net6.0\Eighth.deps.json
+C:\Users\user\Documents\УЧЕБА\C#\C# первый семинар\Eighth\bin\Debug\net6.0\Eighth.runtimeconfig.json
+C:\Users\user\Documents\УЧЕБА\C#\C# первый семинар\Eighth\bin\Debug\net6.0\Eighth.dll
+C:\Users\user\Documents\УЧЕБА\C#\C# первый семинар\Eighth\bin\Debug\net6.0\Eighth.pdb
+C:\Users\user\Documents\УЧЕБА\C#\C# первый семинар\Eighth\obj\Debug\net6.0\Eighth.dll
+C:\Users\user\Documents\УЧЕБА\C#\C# первый семинар\Eighth\obj\Debug\net6.0\refint\Eighth.dll
+C:\Users\user\Documents\УЧЕБА\C#\C# первый семинар\Eighth\obj\Debug\net6.0\Eighth.pdb
+C:\Users\user\Documents\УЧЕБА\C#\C# первый семинар\Eighth\obj\Debug\net6.0\Eighth.genruntimeconfig.cache
+C:\Users\user\Documents\УЧЕБА\C#\C# первый семинар\Eighth\obj\Debug\net6.0\ref\Eighth.dll
